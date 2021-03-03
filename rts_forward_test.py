@@ -84,7 +84,7 @@ st.markdown("<h1 style='text-align: center; color: black;'>Live Performance of R
 st.markdown("<h4 style='text-align: right; color: black;'>[Capital used is 1 lac with 1x margin]</h4>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: right; color: black;'>[Start Date :- 25 Feb, 2020]</h4>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: right; color: black;'>[0.06% transaction costs per side]</h4>", unsafe_allow_html=True)
-link = '[Check our this Strategy here](https://marketscanner.in/mrt-webinar/)'
+link = '[Check out this Strategy here](https://marketscanner.in/mrt-webinar/)'
 st.markdown(link, unsafe_allow_html=True)
 #Percentage ROI
 st.header('Net ROI: '+ str(net_roi) + '%')
